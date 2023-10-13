@@ -1,0 +1,1 @@
+Each folder in this directory contain one separate exercise
