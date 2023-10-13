@@ -1,0 +1,3 @@
+## Creating a Component
+
+Let's create a component that needs to display a title, a subtitle, and a list of tasks. While our list has no tasks, we'll display a "no tasks" message, with our fields and buttons disabled. Once the list is loaded, we'll enable everything and display its data.
